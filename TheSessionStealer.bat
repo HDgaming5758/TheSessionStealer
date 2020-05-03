@@ -54,3 +54,4 @@ if %tsse% neq ok echo Il ya eu un probleme pendant le derobage de la session && 
 if %BLe% neq ok echo Il ya eu un probleme pendant le derobage de la session && pause && exit
 if %LBIe% neq ok echo Il ya eu un probleme pendant le derobage de la session && pause && exit
 echo La session a ete d,rob,e !!, ne faite pas de betise
+pause
